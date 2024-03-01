@@ -1,0 +1,8 @@
+1000,Ferrari,LaFerrari,25000,Excellent,1,AVAILABLE,
+1001,Ferrari,F8-Tributo,20000,Good,1,AVAILABLE,
+1002,Ferrari,Superfast-812,26000,Excellent,1,AVAILABLE,
+1003,Lamborghini,Aventador,60000,Excellent,0,2024-03-5,
+1004,McLaren,Speedtail,80000,Excellent,0,2024-03-02,
+1005,Aston_Martin,Valkyrie,100000,Excellent,1,AVAILABLE,
+1006,McLaren,720S,700000,Excellent,1,AVAILABLE,
+1007,Tesla,Roadster,20000,Bad,1,AVAILABLE,
