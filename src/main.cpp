@@ -684,7 +684,7 @@ int main() {
                     }
                     else if(choose == 2){
                         employee_db.add_customer();
-                        customer_db.write_to_database();
+                        employee_db.write_to_database();
                         break;
                     }
                 }
